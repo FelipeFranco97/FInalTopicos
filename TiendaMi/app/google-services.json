@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "900031485216",
+    "firebase_url": "https://base-d2c70.firebaseio.com",
+    "project_id": "base-d2c70",
+    "storage_bucket": "base-d2c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900031485216:android:c726f058dd4abbcc",
+        "android_client_info": {
+          "package_name": "com.example.sebas.tutolab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900031485216-3i5rh5nuhrls59bndsirjbr6ll2hfhvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sebas.tutolab",
+            "certificate_hash": "56512c5c139d66aa42c919da14e08b2e44bf0bd6"
+          }
+        },
+        {
+          "client_id": "900031485216-6mkcs40s34pcr43c3p4os6qi309ljr8k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "900031485216-6mkcs40s34pcr43c3p4os6qi309ljr8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-DFJLR7NM8-6mw3ZaUYSsI6Xhxb_9xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900031485216-6mkcs40s34pcr43c3p4os6qi309ljr8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
